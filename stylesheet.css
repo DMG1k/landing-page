@@ -1,0 +1,35 @@
+
+body {
+    margin: 0%;
+}
+
+.section-one{
+    background-color: #1f2937;
+}
+
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 100px 5px 100px;
+}
+
+.nav-bar-heading {
+    padding-left: 50px;
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+.nav-bar-links ul {
+    display:flex;
+    color: #f9faf8;
+    font-size: 18px;
+}
+
+
+.nav-bar-links li {
+    display: flex;
+    flex-direction: row;
+    padding: 0px 30px 0px 30px;
+}
